@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.6.1)
+  - lottie-ios (3.2.3)
+  - Nuke (10.7.1)
+  - PKHUD (5.3.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SkeletonView (1.29.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - lottie-ios
+  - Nuke
+  - PKHUD
+  - SDWebImage
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - lottie-ios
+    - Nuke
+    - PKHUD
+    - SDWebImage
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+
+PODFILE CHECKSUM: 89874081b3d68cceef901dfbe1f78137b34a31df
+
+COCOAPODS: 1.10.1
